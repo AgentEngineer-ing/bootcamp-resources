@@ -1,22 +1,22 @@
-# 🤖 Agent Engineering Bootcamp Resources
+# Agent Engineering Bootcamp - Resources
 
 > A comprehensive collection of resources, tools, APIs, and materials for the 6-week Agent Engineering Bootcamp students. 
 
 
 You can navigate this repo either by Weeks or by Topics. 
-
+Feel free to contribute. 
 
 ---
 
 
 ## 🗓️ Navigate by Week
 
-| Week | Focus | Topics | Resources |
-|------|--------|---------|-----------|
-| **[Week 1](./by-week/week-01/)** | Foundation | Dev Environment • Agent Engineering Basics • Building Your First Agent | [📁 Folder](./by-week/week-01/) |
-| **[Week 2](./by-week/week-02/)** | Core Concepts | Context Engineering • RAG & Agentic Search • Memory Systems | [📁 Folder](./by-week/week-02/) |
-| **[Week 3](./by-week/week-03/)** | Advanced Topics | Agent Protocols/MCP • Project Planning • Guardrails & Evals | [📁 Folder](./by-week/week-03/) |
-| **[Weeks 4-6](./live-coding-weeks-4-6/)** | Applied Learning | Live Coding • Guest Speakers • Project Building | [📁 Folder](./live-coding-weeks-4-6/) |
+| Week | Focus | Topics |
+|------|--------|---------|
+| **[Week 1](./by-week/week-01/)** | Foundation | Dev Environment • Agent Engineering Basics • Building Your First Agent |
+| **[Week 2](./by-week/week-02/)** | Core Concepts | Context Engineering • RAG & Agentic Search • Memory Systems | 
+| **[Week 3](./by-week/week-03/)** | Advanced Topics | Agent Protocols/MCP • Project Planning • Guardrails & Evals |
+| **[Weeks 4-6](./live-coding-weeks-4-6/)** | Applied Learning | Live Coding • Guest Speakers • Capstone Projects | 
 
 ---
 
@@ -32,9 +32,13 @@ You can navigate this repo either by Weeks or by Topics.
 - [**Building Agents**](./by-topic/agent-engineering/building-agents/) - Step-by-step guides and tutorials
 - [**Agent Protocols & MCP**](./by-topic/agent-engineering/protocols-mcp/) - Communication standards and protocols
 
-### 🧠 Advanced Techniques
+### 🧠 Building Blocks for Agents
 - [**Context Engineering**](./by-topic/advanced-techniques/context-engineering/) - Optimizing AI context usage
 - [**RAG & Agentic Search**](./by-topic/advanced-techniques/rag-agentic-search/) - Retrieval-augmented generation
+- [**Memory Systems**](./by-topic/advanced-techniques/memory-systems/) - Persistent and contextual memory
+- [**Guardrails & Evaluations**](./by-topic/advanced-techniques/guardrails-evals/) - Safety and performance assessment
+
+### 🧠 Full-stack software engineering
 - [**Memory Systems**](./by-topic/advanced-techniques/memory-systems/) - Persistent and contextual memory
 - [**Guardrails & Evaluations**](./by-topic/advanced-techniques/guardrails-evals/) - Safety and performance assessment
 
@@ -66,32 +70,9 @@ You can navigate this repo either by Weeks or by Topics.
 
 ---
 
-## 📅 Daily Session Resources
-
-### Live Coding Sessions
-Each day includes hands-on coding with the instructor covering practical tools and implementations.
-
-- [**Week 1 Daily Sessions**](./daily-sessions/week-1/) - Foundation building
-- [**Week 2 Daily Sessions**](./daily-sessions/week-2/) - Core implementation
-- [**Week 3 Daily Sessions**](./daily-sessions/week-3/) - Advanced patterns
-- [**Weeks 4-6 Live Coding**](./daily-sessions/weeks-4-6/) - Project development
-
-### Code Examples Repository
-- [**Starter Templates**](./templates/starter-projects/) - Boilerplate code
-- [**Complete Examples**](./templates/complete-examples/) - Full implementations
-- [**Code Snippets**](./templates/code-snippets/) - Reusable components
 
 ---
 
-## 🎤 Guest Speaker Series
-
-| Week | Speaker | Topic | Resources |
-|------|---------|-------|-----------|
-| Week 4 | TBD | Industry Applications | [📁 Materials](./guest-speakers/week-4/) |
-| Week 5 | TBD | Scaling Agent Systems | [📁 Materials](./guest-speakers/week-5/) |
-| Week 6 | TBD | Future of AI Agents | [📁 Materials](./guest-speakers/week-6/) |
-
----
 
 ## 🔍 How to Use This Repository
 
