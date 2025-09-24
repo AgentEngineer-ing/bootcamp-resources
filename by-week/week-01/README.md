@@ -1,88 +1,61 @@
-# Week 1: Foundation
+# Week 1 - Phase 1
 
-> Building the fundamentals for agent engineering success
+> Fundamentals of Agent Engineering + Dev Setup
 
 ## Learning Objectives
 By the end of this week, you will:
-- Set up a complete development environment for agent engineering
-- Understand core concepts of agent engineering and its applications
+
+- Set up a complete development environment for your projects
+- Understand core concepts of agent engineering 
 - Build your first functional AI agent
 
-## Schedule
 
-### Day 1: Development Environment Setup
-**Focus**: Project structure and coding tools
+### Lecture 1: Development Environment Setup
 
-📁 **[01 - Dev Environment](./01-dev-environment/)**
-- IDE setup and configuration
-- Python environment management
-- Git and version control
-- Essential development tools
 
-### Day 2: Agent Engineering Fundamentals  
-**Focus**: Understanding what agent engineering is
+📁 Bootcamp repos
+- [Typesript Starter Repo](https://github.com/AgentEngineer-ing/typescript-next-starter)
+- [Python Starter Repo](https://github.com/AgentEngineer-ing/python-starter)
 
-📁 **[02 - Agent Engineering Basics](./02-agent-engineering-basics/)**
-- What is an AI agent?
-- Agent vs. traditional AI applications
-- Key components and architectures
-- Industry use cases and examples
+🛠️ Recommended AI Coding tools by Instructors: 
+- [Vo for Prototyping](https://v0.app/)
+- [Cursor IDE Install](https://cursor.com/download)
+- [Claude Code Install](https://claude.com/product/claude-code)
 
-### Day 3: Building Your First Agent
-**Focus**: Hands-on agent development
+Other alternative AI coding tools 
+- [Figma Make for Prototyping](https://www.figma.com/make/)
+- [VSCode for IDE](https://code.visualstudio.com/download)
 
-📁 **[03 - Building First Agent](./03-building-first-agent/)**
-- Setting up LangChain
-- Creating a simple conversational agent
-- Adding memory and context
-- Testing and debugging
+Libraries, SDKs, Frameworks
+- [Next.js](https://nextjs.org/docs)
+- [AI SDK by Vercel](https://ai-sdk.dev/docs/introduction)
 
-## Key Resources
+🎁 Free Recommended Courses  
+- [How to use Git?]()
+- [How to use Claude Code](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
+- [Start building with next.js & react](https://nextjs.org/learn)
 
-### Required Reading
-- [Agent Engineering Overview](../by-topic/agent-engineering/fundamentals/)
-- [Development Setup Guide](../../tech-stack.md)
+📚 Additional Resources (Blogs, Articles, Papers)
+- [V0 how to vibe code securely?](https://vercel.com/blog/v0-vibe-coding-securely)
 
-### Tools Introduced This Week
-- **VS Code** - Primary development environment
-- **Python** - Core programming language
-- **LangChain** - Agent development framework
-- **OpenAI API** - Language model access
-- **Git** - Version control
 
-### Daily Coding Sessions
-Each day includes live coding with practical examples:
-- [Day 1 Session](../../daily-sessions/week-1/day-1.md) - Environment setup
-- [Day 2 Session](../../daily-sessions/week-1/day-2.md) - First API calls
-- [Day 3 Session](../../daily-sessions/week-1/day-3.md) - Agent implementation
 
-## Assignments
+### Lecture 2: What is Agent Engineering really? 
 
-### Mini-Projects
-1. **Environment Verification** - Complete setup checklist
-2. **API Integration** - Make your first OpenAI API call
-3. **Simple Agent** - Build a basic Q&A agent
 
-### Week 1 Capstone
-Build a **Personal Assistant Agent** that can:
-- Answer questions about your interests
-- Remember conversation context
-- Provide helpful suggestions
+📚 Resources (Blogs, Articles, Papers):
+- [Building Effective Agents – Anthropic Engineering](https://www.anthropic.com/engineering/building-effective-agents)
+- [Prompt Engineering for Business Performance – Anthropic](https://www.anthropic.com/news/prompt-engineering-for-business-performance)
+- [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [A Practical Guide to Building Agents by OpenAI (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+- [Writing Tools for Agents – Anthropic](https://www.anthropic.com/engineering/writing-tools-for-agents)
+- [HAL (Human-Aligned Language Models) – Princeton](https://hal.cs.princeton.edu/)
+- [Anthropic Evals](https://www.evals.anthropic.com/)
 
-## Prerequisites
-- Basic Python knowledge
-- Familiarity with command line
-- GitHub account
 
-## Next Week Preview
-Week 2 will dive into advanced techniques:
-- Context engineering for better responses
-- RAG (Retrieval-Augmented Generation)
-- Memory systems for persistent conversations
 
----
+### Lecture 3: Build your first Agent
 
-**Need Help?**
-- Check the [troubleshooting guide](../../tech-stack.md#troubleshooting)
-- Join office hours: Daily 4-5pm
-- Ask in Discord: #week-1-help
+
+
+
